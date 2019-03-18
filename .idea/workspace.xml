@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4782418-6c8f-4969-9add-23b9b72a12eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WordItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WordList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/wordfy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -160,9 +141,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
-    <option name="y" value="23" />
-    <option name="width" value="720" />
+    <option name="x" value="400" />
+    <option name="y" value="68" />
+    <option name="width" value="1412" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -273,19 +254,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552852553635</updated>
-      <workItem from="1552852554956" duration="14057000" />
+      <workItem from="1552852554956" duration="14300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14057000" />
+    <option name="totallyTimeSpent" value="14300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="0" />
+    <frame x="531" y="23" width="909" height="877" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30473372" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23815028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
