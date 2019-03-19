@@ -1,7 +1,12 @@
 .logo-img {
   display: block;
-  margin: 10px auto;
+  margin: 10px auto 0 auto;
   height: 60px;
+}
+
+.typed-heading {
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 .background {

@@ -1,13 +1,25 @@
 import React from "react";
+import Typed from "../api/Typed";
 import words from "../api/words";
 import SearchBar from "./SearchBar";
 import WordList from "./WordList";
 import Particle from "particlesjs";
-import { Container } from "semantic-ui-react";
+import { Header, Container } from "semantic-ui-react";
+
 import "./App.css";
 
 export default class App extends React.Component {
-  state = { words: [] };
+  state = {
+    words: [],
+    strings: [
+      "<i>definition</i>",
+      "<i>explanation</i>",
+      "<i>denotation</i>",
+      "<i>interpretation</i>",
+      "<i>explication</i>",
+      "<i>connotation</i>"
+    ]
+  };
 
   componentDidMount() {
     Particle.init({
@@ -39,6 +51,11 @@ export default class App extends React.Component {
               src={require("../images/wordfy.png")}
               alt={"wordfy-logo"}
             />
+            <div className={"typed-heading"}>
+              <Header as={"h3"} textAlign="center">
+                Search for a <Typed strings={this.state.strings} />{" "}
+              </Header>
+            </div>
           </div>
           <SearchBar onSearchSubmit={this.onWordSubmit} />
           <WordList words={this.state.words} />
